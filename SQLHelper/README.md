@@ -84,7 +84,7 @@ Das Ziel dieses Projekts ist es, eine Verbindung zu einer beliebigen SQL Datenba
 	}
 ``` 
 
-Wenn das noch nicht reicht, schaut euch ein anderes Projekt von mir an (github.com/incredibleXE/DB2Prak2)
+Wenn das noch nicht reicht, schaut euch ein anderes Projekt von mir an [DB2Prak2](http://github.com/incredibleXE/DB2Prak2)
 
 
 ### Microsoft SQL Server
